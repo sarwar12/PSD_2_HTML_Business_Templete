@@ -10,8 +10,9 @@
 	background: linear-gradient(90deg, red 50%, yellow 50%);
 	background: linear-gradient(90deg, red 50%, yellow 50%, green 50%);	
 
-### Use Overlay
+### Use Overlay style:
 
 
-# G SARWAR
+***
+## G SARWAR
 ### Web Instructor
